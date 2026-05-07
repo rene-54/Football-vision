@@ -1,0 +1,12 @@
+torch
+ultralytics
+opencv-python
+supervision
+scikit-learn
+sports
+roboflow
+numpy
+tqdm
+plotly
+pillow
+ipython
